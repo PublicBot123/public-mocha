@@ -100,17 +100,18 @@ module.exports = {
 𝙰𝚟𝚊𝚒𝚕𝚊𝚋𝚕𝚎 𝙲𝚘𝚖𝚖𝚊𝚗𝚍𝚜:
 ╭─╼━━━━━━━━╾─╮
 │ - AI
-│ - Translate
+│ - Alldl
 │ - Animagine
 │ - Dalle
-│ - Pinterest
-│ - Remini
-│ - Lyrics
-│ - Alldl
 │ - Help
+│ - Join
+│ - Lyrics
+│ - Pinterest
 │ - Prefix
+│ - Remini
 │ - Spotify
 │ - Tempmail
+│ - Translate
 │ - Unsend
 ╰─━━━━━━━━━╾─╯
 -𝚑𝚎𝚕𝚙 <𝚌𝚘𝚖𝚖𝚊𝚗𝚍 𝚗𝚊𝚖𝚎>
