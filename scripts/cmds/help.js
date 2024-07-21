@@ -4,6 +4,11 @@ const commandInfoMap = {
     description: "Ai Based on GPT-4",
     guide: "-ai what is life?"
     },
+  join: {
+    name: "join",
+    description: "move to other gc where the bot is in",
+    guide: "-join"
+    },
   spotify: {
     name: "spotify",
     description: "play song from spotify",
