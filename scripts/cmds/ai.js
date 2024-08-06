@@ -1,6 +1,12 @@
 const axios = require('axios');
 
-const services = [  { url: 'https://markdevs-last-api.onrender.com/api/v3/gpt4', param: { ask: 'ask' } },  { url: 'https://king-aryanapis.onrender.com/api/gpt', param: { prompt: 'prompt' } },  { url: 'https://gpt-four.vercel.app/gpt', param: { prompt: 'prompt' }, isCustom: true }];
+const services = [
+  
+{ url: 'https://markdevs-last-api.onrender.com/api/v3/gpt4', param: { ask: 'ask' } },  
+{ url: 'https://king-aryanapis.onrender.com/api/gpt', param: { prompt: 'prompt' } },  
+{ url: 'https://gpt-four.vercel.app/gpt', param: { prompt: 'prompt' }, isCustom: true }
+
+];
 
 async function callService(service, prompt, senderID) {
   if (service.isCustom) {
